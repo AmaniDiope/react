@@ -1,0 +1,91 @@
+const Homeproduct =
+[
+    {
+      id: 1,
+      Name:'product1',
+      price:'26',
+      image:'image/p1.jfif',
+      cat:'',
+      type:'new',
+    },
+     {
+      id: 3,
+      Name:'product3',
+      price:'26',
+      image:'image/p3.jfif',
+      cat:'',
+      type:'new',
+    },{
+      id: 4,
+      Name:'product4',
+      price:'26',
+      image:'image/p4.jfif',
+      cat:'',
+      type:'new',
+    },
+    {
+      id: 6,
+      Name:'product6',
+      price:'26',
+      image:'image/p6.jfif',
+      cat:'',
+      type:'new',
+    },{
+      id: 7,
+      Name:'product7',
+      price:'26',
+      image:'image/p7.jfif',
+      cat:'',
+      type:'featured',
+    },{
+      id: 8,
+      Name:'product8',
+      price:'26',
+      image:'image/p8.jfif',
+      cat:'',
+      type:'featured',
+    },{
+      id: 9,
+      Name:'product9',
+      price:'26',
+      image:'image/p9.jfif',
+      cat:'',
+      type:'featured',
+    },{
+      id: 10,
+      Name:'product10',
+      price:'26',
+      image:'image/p10.jfif',
+      cat:'',
+      type:'top',
+    },{
+      id: 11,
+      Name:'product11',
+      price:'26',
+      image:'image/p11.jfif',
+      cat:'',
+      type:'top',
+    },{
+      id: 12,
+      Name:'product12',
+      price:'26',
+      image:'image/p12.jfif',
+      cat:'',
+      type:'top',
+    },{
+      id: 13,
+      Name:'product13',
+      price:'26',
+      image:'image/p13.jfif',
+      cat:'',
+      type:'new',
+    },{
+      id: 14,
+      Name:'product14',
+      price:'26',
+      image:'image/p14.jfif',
+      cat:'',
+      type:'new',
+    }
+]
+export default Homeproduct
